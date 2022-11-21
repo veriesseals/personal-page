@@ -1,0 +1,14 @@
+/* * {
+    outline: 1px dotted red;
+} */
+
+img {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    height: auto;
+    border-top-left-radius: 180px;
+    border-top-right-radius: 180px;
+    border-bottom-left-radius: 180px;
+    border-bottom-right-radius: 180px;
+}
